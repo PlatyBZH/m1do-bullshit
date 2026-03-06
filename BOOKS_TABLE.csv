@@ -1,0 +1,101 @@
+﻿book_id,title,author,genre,isbn,language
+1,"Night of the Hunter, The",Lacie Garmey,Drama|Film-Noir|Thriller,301183111-4,Gaelic
+2,1984 (Nineteen Eighty-Four),Hansiain O'Noland,Drama|Sci-Fi,660107273-7,Amharic
+3,"Life Less Ordinary, A",Erinn Tapping,Romance|Thriller,301947412-4,Komi
+4,Flu Bird,Fitzgerald Rotlauf,Horror,661951961-X,Oromo
+5,Those Magnificent Men in Their Flying Machines,Meredith Papierz,Action|Adventure|Comedy,185223687-6,Bengali
+6,Highlander: The Search for Vengeance,Anatol Steger,Action|Adventure|Fantasy,423207909-2,Tajik
+7,"Man You Had in Mind, The",Berke Brinded,Documentary,577017620-2,Yiddish
+8,Scourge,Rahal Millgate,Horror|Mystery|Sci-Fi,782012617-5,Fulah
+9,How Tasty Was My Little Frenchman (Como Era Gostoso o Meu Francês),Kasey Vaughten,Comedy|Drama,901657272-4,Indonesian
+10,Blood Shack,Carmelia Station,Horror,528641661-6,Chinese
+11,Lucky Lady,Erina Fenna,Comedy|Drama,726126237-4,Lao
+12,Dangerous Moves (La diagonale du fou),Gerrie Rimmer,Drama|Thriller,784411150-X,Tajik
+13,Celebrity,Isabel Bearman,Comedy,354967661-1,Divehi
+14,Catch That Kid,Thibaud Meade,Action|Adventure|Children|Comedy|Crime,754868407-X,Sindhi
+15,The Forest,Raphaela Ganing,Drama|Fantasy,879382319-3,Ewe
+16,New in Town,Odelia Habble,Comedy|Romance,431534717-5,Nauru
+17,Blood Ties,Letty Veighey,Crime|Drama|Thriller,219474041-4,Kinyarwanda
+18,"Pointe-Courte, La",Derby Hobben,Drama,524693011-4,"Sotho, Southern"
+19,Barnyard: The Original Party Animals,Austina Keets,Animation|Children|Comedy,977637357-7,Corsican
+20,Partners,Rosemary Reaveley,Comedy,553596273-2,Western Frisian
+21,Pieces (Mil gritos tiene la noche) (One Thousand Cries Has the Night),Humfried Stallybrass,Horror|Mystery|Thriller,176142135-2,Limburgan
+22,Bachelor in Paradise,Dionis Tritton,Comedy|Romance,229861377-X,Sanskrit
+23,Happy People: A Year in the Taiga,Nanny Airlie,Documentary,115265202-8,Abkhazian
+24,Hail the Conquering Hero,Lief Matiasek,Comedy,385137845-8,Bengali
+25,"Bobby Jones, Stroke of Genius",Salem Mathers,Drama,284988040-X,Marathi
+26,"Alarmist, The (a.k.a. Life During Wartime)",Ignazio Mault,Comedy,019182068-7,Inuktitut
+27,Waking the Dead,Jocko Walling,Drama|Thriller,654754674-8,Tajik
+28,Sexual Predator,Barny Dunford,Thriller,218076150-3,Yoruba
+29,Gertie the Dinosaur,Donovan Vasenin,Animation|Children|Comedy,604467128-3,Pali
+30,Sometime in August (Mitte Ende August),Alaster Wyndham,Drama,574522258-1,Esperanto
+31,Curse of the Pink Panther,Morly Liddard,Comedy|Crime|Mystery,164568419-9,Oromo
+32,"Ten Shrews, The (Kymmenen riivinrautaa)",Julie de Chastelain,Comedy,683141171-1,Divehi
+33,Bread and Chocolate (Pane e cioccolata),Lulita MacSkeaghan,Comedy|Drama,734696856-5,Tibetan
+34,"Clairvoyant, The",Si Fenty,Drama|Thriller,866310198-8,Hindi
+35,Twelve and Holding,Veronica Dodamead,Drama,478502741-X,Swati
+36,"Nun's Story, The",Derwin Arlott,Drama,390348533-0,Polish
+37,Andrei Rublev (Andrey Rublyov),Gaile Kaasmann,Drama|War,180165876-5,Chechen
+38,Schizopolis,Isidro Churchard,Comedy,801860356-1,Fulah
+39,Sundays and Cybele (Les dimanches de Ville d'Avray),Seamus Parren,Drama,863293820-7,Galician
+40,Europa Report,Carlos Lowndesbrough,Sci-Fi|Thriller,482415916-4,Oromo
+41,Man in the Middle,Mannie Ducker,Drama|War,506290435-8,Sundanese
+42,Dragonball Evolution,Allayne Gayter,Action|Adventure|Fantasy|Sci-Fi,785609724-8,Slovak
+43,Spun,Tamera Charlesworth,Comedy|Crime|Drama,025627827-X,Faroese
+44,Warrior,Muriel Blazic,Drama,456794379-1,Northern Sami
+45,Ender's Game,Enos Casol,Action|Adventure|Sci-Fi|IMAX,373359941-1,Kirghiz
+46,Of Human Bondage,Louis Jagielski,Drama,907100278-0,Chichewa
+47,Bloodbath at the House of Death,Whitby Durrell,Comedy|Horror,236643520-7,Indonesian
+48,Trauma,Xymenes Morecomb,Horror|Mystery|Thriller,726980346-3,Northern Sami
+49,New York: A Documentary Film,Morry Pikett,Documentary,946254527-8,"Ndebele, North"
+50,America the Beautiful 2: The Thin Commandments ,Tommie Kingsland,Documentary,555684489-5,Japanese
+51,Ponyo (Gake no ue no Ponyo),Marietta Petrushkevich,Adventure|Animation|Children|Fantasy,576499654-6,Kirghiz
+52,House of Women,Arda Tankus,Crime|Drama,810313049-4,Belarusian
+53,Maya Lin: A Strong Clear Vision,Culley Cheeld,Documentary,458054697-0,Danish
+54,"Girl, The",Benton Semple,Drama|Mystery|Romance,831768213-7,Romansh
+55,8 Women,Jaymie Thomelin,Comedy|Crime|Musical|Mystery,596562087-X,Vietnamese
+56,"Paimen, piika ja emäntä",Francesca Conti,Drama,549121810-3,Panjabi
+57,Where the Money Is,Saundra Latehouse,Comedy|Drama,879676400-7,Tsonga
+58,Get on Up,Tanya Dunston,Drama|Musical,527837835-2,Interlingue
+59,When Ladies Meet,Mariel Sloat,Comedy|Romance,362280846-2,Tigrinya
+60,Bend It Like Beckham,Haslett Petel,Comedy|Drama|Romance,356409464-4,Icelandic
+61,"Runner, The (Davandeh)",Sandor Krysiak,Drama,096232845-6,Abkhazian
+62,"Racket, The",Baxie Upcraft,Crime|Film-Noir,906604363-6,Inuktitut
+63,"Canterbury Tale, A",Jard Balharrie,Drama|Mystery|War,210880780-2,Estonian
+64,Envy (Kiskanmak),Ronna Cree,Drama,217040489-9,Thai
+65,Baffled!,Pablo Wickey,Mystery|Sci-Fi|Thriller,179667578-4,Turkish
+66,"Last Hangman, The (Pierrepoint)",Berti Gaddie,Drama,050155409-2,Tagalog
+67,Lovers and Lollipops,Simonette Boyse,Drama|Romance,816536090-6,Bashkir
+68,Terri,Kayley Warrick,Comedy,958713313-7,Latvian
+69,Zarafa,Denny Parham,Animation,776075275-X,Kirghiz
+70,Fine-Tune,Kathie Vanner,Comedy|Drama,227203340-7,Swahili
+71,Yolanda and the Thief,Dan Pawels,Fantasy|Musical|Romance,528075902-3,Polish
+72,Missile to the Moon,Elli Lefort,Sci-Fi,261750467-0,Telugu
+73,Manufacturing Consent: Noam Chomsky and the Media,Darrell Camilleri,Documentary|War,623008730-8,Kinyarwanda
+74,How Tasty Was My Little Frenchman (Como Era Gostoso o Meu Francês),Park Voller,Comedy|Drama,501607050-4,Tajik
+75,Jesse Stone: Sea Change,Maxy Jahnisch,Crime|Drama,070259244-7,Norwegian Nynorsk
+76,"Bruno (Dress Code, The)",Correy Yter,Comedy|Drama,945116544-4,Lao
+77,Where Love Has Gone,Erik Rase,Drama,704893973-7,Swedish
+78,Night Passage,Valenka Rosengarten,Western,815590265-X,Norwegian Nynorsk
+79,"I, Frankenstein",Berte Djekic,Action|Fantasy|Sci-Fi|IMAX,496588154-0,Hiri Motu
+80,Implanted,Redford Loins,Drama|Mystery|Sci-Fi|Thriller,536530546-9,Urdu
+81,Pianomania,Andi Froude,Documentary,827337534-X,Interlingua (International Auxiliary Language Association)
+82,Firehouse Dog,Adella Nursey,Action|Comedy,782027274-0,Chuvash
+83,"Die Bademeister – Weiber, saufen, Leben retten",Teddy Slad,Comedy,000851430-5,Afrikaans
+84,Where East Is East,Lynea Leijs,Drama,940310779-0,Thai
+85,"Hunting Party, The",Katusha Iohananof,Action|Adventure|Comedy|Drama|Thriller,467020425-4,Ukrainian
+86,"8 (8, the Play)",Salli Dowyer,Drama,606250856-9,Ido
+87,"Troll in Central Park, A",Pryce Smeeth,Animation|Children,615900558-8,Belarusian
+88,Crime on the Highway,Conant Wiggans,Comedy|Crime,616031085-2,Sango
+89,"Citizen, The",Zahara Headon,Drama,833384680-7,Javanese
+90,Trilogy of Terror II,Zolly Swetenham,Horror,478869537-5,Occitan (post 1500)
+91,"Dragonphoenix Chronicles: Indomitable, The",Lillis Tiery,Action|Adventure|Fantasy,537071357-X,Hiri Motu
+92,"Summit, The",Aurie Ruffles,Documentary,318496735-2,Serbian
+93,Bodyguards and Assassins,Lauraine Delwater,Action|Drama,181207230-9,Luba-Katanga
+94,One Missed Call (Chakushin ari),Shaylah Strangwood,Horror|Mystery,145343336-8,Basque
+95,"Love Guru, The",Lyn Fisby,Comedy,997704683-2,French
+96,Pelle Svanslös,Alvan Ladley,Animation|Children,090947271-8,Uighur
+97,"Sacrament, The",Lesley Gorst,Horror|Thriller,199915512-2,Dzongkha
+98,Riders of Destiny,Monah Garmanson,Romance|Western,150481836-9,"Greek, Modern (1453-)"
+99,Mammuth,Tamqrah Abbati,Comedy|Drama,922652673-7,Breton
+100,"Green Man, The",Bruce Lashmore,Comedy,422325275-5,Manx
