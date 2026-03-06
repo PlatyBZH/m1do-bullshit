@@ -33,12 +33,13 @@ def pseudonymize_data(data):
             if key in ['name', 'email', 'phone']:
                 # Pseudonymisation des identifiants
                 pseudonymized[key] = hash_value(str(value))
-            elif key == 'address':
+            elif key == 'address' or key == 'shipping_address':
                 # On garde le code postal pour l'analyse géographique
                 parts = value.split(',')
                 if len(parts) >= 2:
                     postal_code = parts[1].strip().split()[0]  # Extrait le code postal
-                    pseudonymized[key] = hash_value(parts[0]) + ', ' + postal_code + ', [PAYS]'
+                    country = parts[1].strip().split()[1]
+                    pseudonymized[key] = hash_value(parts[0]) + ', ' + postal_code + ' ' + country
                 else:
                     pseudonymized[key] = hash_value(value)
             elif key == 'national_id':

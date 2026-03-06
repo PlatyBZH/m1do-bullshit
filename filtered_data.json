@@ -5,7 +5,7 @@
       "name": "7ec4bb6a9194e4fc4b03abf14647d7af43e52c522b1926714d58946ff6588f2b",
       "email": "f5243f0f4dae54490b6579544900d9b8631b4113e03e7ac7a3cc1ac6572c4928",
       "phone": "9f7e86299944c961f372daa03256a520ffd04cd1cf33cfe732da6572e57fdd7e",
-      "address": "50714fa46ae444c76f360f4731e12878f9ed924c6ccdc487d1025a039bebc721, 75001, [PAYS]",
+      "address": "50714fa46ae444c76f360f4731e12878f9ed924c6ccdc487d1025a039bebc721, 75001 Paris",
       "birthdate": "1985-07-23",
       "national_id": "1a1f85f55401493d",
       "payment_methods": [
@@ -50,7 +50,7 @@
         "action": "purchase_request",
         "product_name": "Livre 'La vie secrète des arbres'",
         "partner_site": "https://www.fnac.com",
-        "shipping_address": "15 Rue de la République, 75001 Paris",
+        "shipping_address": "50714fa46ae444c76f360f4731e12878f9ed924c6ccdc487d1025a039bebc721, 75001 Paris",
         "payment_method_last_4": "9012"
       },
       {
@@ -77,7 +77,7 @@
       "name": "4d1837f85b449ee97d8ba9370e40347ef4af032de4cabbfa28ff14b092cf4073",
       "email": "43f1c55a16bd27b71642c1545fa6c78ceb8dabb18bbeee9d9876cc26d9bf32f5",
       "phone": "d3e83b39735451560bd34d75e98a46f14a5dbef4dc2d12a80aaefd809c785d53",
-      "address": "ec75e3561168be66b60bf12afe1868cff3bf720aac10087cbd30da5a1f93940e, 69003, [PAYS]",
+      "address": "ec75e3561168be66b60bf12afe1868cff3bf720aac10087cbd30da5a1f93940e, 69003 Lyon",
       "birthdate": "1992-11-14",
       "national_id": "514c5c7aba7be597",
       "payment_methods": [
@@ -111,7 +111,7 @@
         "action": "purchase_request",
         "product_name": "Station d'accueil USB-C",
         "partner_site": "https://www.darty.com",
-        "shipping_address": "28 Avenue des Tilleuls, 69003 Lyon",
+        "shipping_address": "ec75e3561168be66b60bf12afe1868cff3bf720aac10087cbd30da5a1f93940e, 69003 Lyon",
         "payment_method_last_4": "1234"
       }
     ]
@@ -122,7 +122,7 @@
       "name": "c58eac75de18130a88a4794a2945fbd9dc00a1debdaca574cf4bb8000d89debc",
       "email": "8879510c951e7238a637b27f6d0b3eaaa248cf9e299d10e14788bbf6b885f56f",
       "phone": "07e92aa5b893fbbfdeb42102b909e70a43dff7f40d32befd226b9b08353a8b1a",
-      "address": "6f08450a1528eaefa2a601e0b435c24b525cc9f117a3ffc2366f221eaacd5442, 75011, [PAYS]",
+      "address": "6f08450a1528eaefa2a601e0b435c24b525cc9f117a3ffc2366f221eaacd5442, 75011 Paris",
       "birthdate": "1978-03-12",
       "national_id": "0051b526bac893f2",
       "payment_methods": [
@@ -156,7 +156,7 @@
         "action": "purchase_request",
         "product_name": "Casque de vélo intelligent",
         "partner_site": "https://www.decathlon.fr",
-        "shipping_address": "5 Boulevard Voltaire, 75011 Paris",
+        "shipping_address": "6f08450a1528eaefa2a601e0b435c24b525cc9f117a3ffc2366f221eaacd5442, 75011 Paris",
         "payment_method_last_4": "9843"
       }
     ]
@@ -167,7 +167,7 @@
       "name": "f9fed487dc7d9e65ea1e7c9c461d85a2e269ebdc5958efb1fa42054f75c7b59b",
       "email": "d1081efcdb05072a7500e7326571a44ef973051802488c544113640d5013e91d",
       "phone": "4047200943ba67bd7047cf29de2a24b8f1ef69eb87f27fe83117449a82de58d4",
-      "address": "4bef38d6a2eace08cef0587f29b56dcaa3f7d8029453c4661c01870557515405, 75002, [PAYS]",
+      "address": "4bef38d6a2eace08cef0587f29b56dcaa3f7d8029453c4661c01870557515405, 75002 Paris",
       "birthdate": "1989-09-21",
       "national_id": "23670d69eee41ed4",
       "payment_methods": [
@@ -204,7 +204,7 @@
       "name": "088328a90abc473d6803bb0153c5b716527974e748a196e83adb6422a8309f60",
       "email": "db26d4cccb15e596b35d9ea4f80997233784e55aecc024f2360b6ae4640cbf98",
       "phone": "c273632cb0d7f20c7f5b7f42cc3347fc0e18fb65dd43f4ef0dca38bd13b01677",
-      "address": "2242bfa7d4e6965fcaebc442c088cf120cc9308d4c5b030ab0950803b48a821a, 93000, [PAYS]",
+      "address": "2242bfa7d4e6965fcaebc442c088cf120cc9308d4c5b030ab0950803b48a821a, 93000 Bobigny",
       "birthdate": "1995-12-05",
       "national_id": "500ee0404b65f16d",
       "payment_methods": [
@@ -238,7 +238,7 @@
         "action": "purchase_request",
         "product_name": "Écouteurs sans fil premium",
         "partner_site": "https://www.amazon.de",
-        "shipping_address": "8 Avenue Jean Jaurès, 93000 Bobigny",
+        "shipping_address": "2242bfa7d4e6965fcaebc442c088cf120cc9308d4c5b030ab0950803b48a821a, 93000 Bobigny",
         "payment_method_last_4": "1234"
       }
     ]
@@ -249,7 +249,7 @@
       "name": "f9caa3be9753a210e8197700538909cfdd61d7fb1f68712c645d93d4830795b1",
       "email": "a472776fb82b2da23041b3bd6a6fccae97444145f1b4b8758be63a7bb8302828",
       "phone": "d3a3d84d61cdb1edea4ab40800eac74cbf79cf1a94e0bb4236f561d58602c06f",
-      "address": "d0325025defeec9b3db7bf33c318d40e95556fc128c909d0c9558b8d90b36baa, 75019, [PAYS]",
+      "address": "d0325025defeec9b3db7bf33c318d40e95556fc128c909d0c9558b8d90b36baa, 75019 Paris",
       "birthdate": "1983-01-30",
       "national_id": "70358ef5f3de810d",
       "payment_methods": [
@@ -286,7 +286,7 @@
       "name": "e57baddd0144c86637df4456855ab1e0c5a8ad6735e44f74707bd2e7da49dd8b",
       "email": "f81e9ea09b6748a04b02860ebc2d73ee677541fda1b9bf89d5b17cf451334e91",
       "phone": "da9d080802a2809de3ac7d2a608bd5c948b872efe50040f5a8488be488d356ad",
-      "address": "b6059dc32a78c296c45297f40497f51960a9454588e982559342aa1d1f457168, 75004, [PAYS]",
+      "address": "b6059dc32a78c296c45297f40497f51960a9454588e982559342aa1d1f457168, 75004 Paris",
       "birthdate": "1974-06-18",
       "national_id": "ada20d29bceed9a6",
       "payment_methods": [
@@ -320,7 +320,7 @@
         "action": "purchase_request",
         "product_name": "Billet pour spectacle comedy club",
         "partner_site": "https://www.fnac.com",
-        "shipping_address": "20 Rue de Rivoli, 75004 Paris",
+        "shipping_address": "b6059dc32a78c296c45297f40497f51960a9454588e982559342aa1d1f457168, 75004 Paris",
         "payment_method_last_4": "2222"
       }
     ]
@@ -331,7 +331,7 @@
       "name": "8544ea25d44fd766b2c0c4300a76d6d3d33aee5bf98b996663179ecbf8a39bbd",
       "email": "caadb49e1e0f32125e638b4c45d2cb6551f44dd1d5916fa17214f2005f23d04e",
       "phone": "1caf8326eab1ce418ad32657c55d4090a6def2763dbd9a720f64eec521aa755e",
-      "address": "0b9f0ac519e48e2bc05d543c5a24ec78be47987e8e902449c1e0b81ec735f10f, 75010, [PAYS]",
+      "address": "0b9f0ac519e48e2bc05d543c5a24ec78be47987e8e902449c1e0b81ec735f10f, 75010 Paris",
       "birthdate": "1991-04-14",
       "national_id": "1f5646d2a6ff4f41",
       "payment_methods": [
@@ -368,7 +368,7 @@
       "name": "dee0cd150d13b727275b28f719a4ac92d4603a179fe1e7968ef58dccc77e3f18",
       "email": "1b5f1f2efa3eec4174daa5532dcb0855a5ec6109a113efcc5528407ed7012b17",
       "phone": "f5ceeb2ebacd1bd357b60d30a05603fab329034228b043d06b3c70a524407984",
-      "address": "7f283e7f7fa14c0d48a91f1bb6758266813a134e0ad9329b984d1ac25e0ce804, 75013, [PAYS]",
+      "address": "7f283e7f7fa14c0d48a91f1bb6758266813a134e0ad9329b984d1ac25e0ce804, 75013 Paris",
       "birthdate": "1987-08-22",
       "national_id": "f407ee2100147426",
       "payment_methods": [
@@ -402,7 +402,7 @@
         "action": "purchase_request",
         "product_name": "Casque vélo avec lumière intégrée",
         "partner_site": "https://www.decathlon.fr",
-        "shipping_address": "7 Rue de la Santé, 75013 Paris",
+        "shipping_address": "7f283e7f7fa14c0d48a91f1bb6758266813a134e0ad9329b984d1ac25e0ce804, 75013 Paris",
         "payment_method_last_4": "9012"
       }
     ]
@@ -413,7 +413,7 @@
       "name": "cfa996b7a87774499e42d051539de70f4fd7655ff3e079079744e3cf278444f7",
       "email": "d0d92054b29c0d213323e88e62e49be4ce04d66ea43b4418af758b8aec21ccb4",
       "phone": "973a1694129267f9289f6808cd5296b9adbe6caf2c79079f23b518138a7bec9b",
-      "address": "d50f6d34339087fe702da5fbf09fb3493f08119b3c201c663f9f7c5fa200b030, 75018, [PAYS]",
+      "address": "d50f6d34339087fe702da5fbf09fb3493f08119b3c201c663f9f7c5fa200b030, 75018 Paris",
       "birthdate": "1993-10-05",
       "national_id": "8e0622bae29a4f4a",
       "payment_methods": [
@@ -447,7 +447,7 @@
         "action": "purchase_request",
         "product_name": "Livre 'Réinvente-toi'",
         "partner_site": "https://www.fnac.com",
-        "shipping_address": "4 Rue des Martyrs, 75018 Paris",
+        "shipping_address": "d50f6d34339087fe702da5fbf09fb3493f08119b3c201c663f9f7c5fa200b030, 75018 Paris",
         "payment_method_last_4": "1234"
       }
     ]
