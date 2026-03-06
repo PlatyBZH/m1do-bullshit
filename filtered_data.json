@@ -1,0 +1,455 @@
+[
+  {
+    "user_id": "user_001",
+    "profile": {
+      "name": "7ec4bb6a9194e4fc4b03abf14647d7af43e52c522b1926714d58946ff6588f2b",
+      "email": "f5243f0f4dae54490b6579544900d9b8631b4113e03e7ac7a3cc1ac6572c4928",
+      "phone": "9f7e86299944c961f372daa03256a520ffd04cd1cf33cfe732da6572e57fdd7e",
+      "address": "50714fa46ae444c76f360f4731e12878f9ed924c6ccdc487d1025a039bebc721, 75001, [PAYS]",
+      "birthdate": "1985-07-23",
+      "national_id": "1a1f85f55401493d",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "XXXX-XXXX-XXXX-9012",
+          "expiry": "12/29",
+          "cvv": "XXX",
+          "billing_address": "967faf920ade8d390a41fb5926f5c7da20ae4726c0af104e7ed4a79f4665078c"
+        },
+        {
+          "type": "paypal",
+          "email": "f5243f0f4dae54490b6579544900d9b8631b4113e03e7ac7a3cc1ac6572c4928"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-10T08:15:30Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur casque sans fil pour la course",
+        "response": "Top 5 casques sportifs 2025 : SoundFit Pro, AirRun X1, etc."
+      },
+      {
+        "timestamp": "2025-04-10T08:16:45Z",
+        "service": "Rufus",
+        "action": "recommendation_click",
+        "recommended_product": "SoundFit Pro",
+        "product_link": "https://www.amazon.fr/casque-soundfit-pro"
+      },
+      {
+        "timestamp": "2025-04-10T12:30:10Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Livre 'La vie secrète des arbres'",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "15 Rue de la République, 75001 Paris",
+        "payment_method_last_4": "9012"
+      },
+      {
+        "timestamp": "2025-04-10T18:45:22Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Ajoute du lait et des œufs à ma liste de courses",
+        "audio_recording_id": "f3e78e6a953f45678d3ad67ed27d918ab4a772f14dd4c34bdd188abbcf3c949b",
+        "list_updated": "shopping_list_001"
+      },
+      {
+        "timestamp": "2025-04-11T07:20:15Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Commande un taxi pour 8h",
+        "audio_recording_id": "9b3177ed26edf7b18c72db0ef7594139440b04331c958cbd9393246887d47e7c",
+        "biometric_confirmed": false
+      }
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "profile": {
+      "name": "4d1837f85b449ee97d8ba9370e40347ef4af032de4cabbfa28ff14b092cf4073",
+      "email": "43f1c55a16bd27b71642c1545fa6c78ceb8dabb18bbeee9d9876cc26d9bf32f5",
+      "phone": "d3e83b39735451560bd34d75e98a46f14a5dbef4dc2d12a80aaefd809c785d53",
+      "address": "ec75e3561168be66b60bf12afe1868cff3bf720aac10087cbd30da5a1f93940e, 69003, [PAYS]",
+      "birthdate": "1992-11-14",
+      "national_id": "514c5c7aba7be597",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "XXXX-XXXX-XXXX-1234",
+          "expiry": "08/27",
+          "cvv": "XXX",
+          "billing_address": "2906403c9242042ce07034b3537fd7fc35166e5a8337194c5c45d8f7e6168830"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-09T14:22:10Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "ordinateur portable 15 pouces bon rapport qualité-prix",
+        "response": "Liste de 10 modèles disponibles sur Amazon."
+      },
+      {
+        "timestamp": "2025-04-09T14:25:01Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Station d'accueil USB-C",
+        "partner_site": "https://www.darty.com",
+        "shipping_address": "28 Avenue des Tilleuls, 69003 Lyon",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "profile": {
+      "name": "c58eac75de18130a88a4794a2945fbd9dc00a1debdaca574cf4bb8000d89debc",
+      "email": "8879510c951e7238a637b27f6d0b3eaaa248cf9e299d10e14788bbf6b885f56f",
+      "phone": "07e92aa5b893fbbfdeb42102b909e70a43dff7f40d32befd226b9b08353a8b1a",
+      "address": "6f08450a1528eaefa2a601e0b435c24b525cc9f117a3ffc2366f221eaacd5442, 75011, [PAYS]",
+      "birthdate": "1978-03-12",
+      "national_id": "0051b526bac893f2",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "American Express",
+          "number": "XXXX-XXXX-XXXX-8431",
+          "expiry": "05/28",
+          "cvv": "XXX",
+          "billing_address": "177ae1ba9f12e63c683c77084c5c5591a37fb703ac2d038a521cd784e43e5cd6"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-12T10:05:20Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleures baskets de running 2025",
+        "response": "Nike AirZoom, Adidas Ultraboost 2025, etc."
+      },
+      {
+        "timestamp": "2025-04-12T10:08:11Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Casque de vélo intelligent",
+        "partner_site": "https://www.decathlon.fr",
+        "shipping_address": "5 Boulevard Voltaire, 75011 Paris",
+        "payment_method_last_4": "9843"
+      }
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "profile": {
+      "name": "f9fed487dc7d9e65ea1e7c9c461d85a2e269ebdc5958efb1fa42054f75c7b59b",
+      "email": "d1081efcdb05072a7500e7326571a44ef973051802488c544113640d5013e91d",
+      "phone": "4047200943ba67bd7047cf29de2a24b8f1ef69eb87f27fe83117449a82de58d4",
+      "address": "4bef38d6a2eace08cef0587f29b56dcaa3f7d8029453c4661c01870557515405, 75002, [PAYS]",
+      "birthdate": "1989-09-21",
+      "national_id": "23670d69eee41ed4",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "XXXX-XXXX-XXXX-0123",
+          "expiry": "11/26",
+          "cvv": "XXX",
+          "billing_address": "2f4531077e8d0423214f1340a68c6488c47a2184d481f50a7c059ab004ba6811"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": true
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-13T16:40:33Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Rappelle-moi d'appeler le médecin demain à 9h",
+        "audio_recording_id": "01a3d77dc7a0b5f0b248ea40f14eb7a60c68c331643fdac9ccca9216a3febba2",
+        "biometric_confirmed": true
+      }
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "profile": {
+      "name": "088328a90abc473d6803bb0153c5b716527974e748a196e83adb6422a8309f60",
+      "email": "db26d4cccb15e596b35d9ea4f80997233784e55aecc024f2360b6ae4640cbf98",
+      "phone": "c273632cb0d7f20c7f5b7f42cc3347fc0e18fb65dd43f4ef0dca38bd13b01677",
+      "address": "2242bfa7d4e6965fcaebc442c088cf120cc9308d4c5b030ab0950803b48a821a, 93000, [PAYS]",
+      "birthdate": "1995-12-05",
+      "national_id": "500ee0404b65f16d",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "XXXX-XXXX-XXXX-1234",
+          "expiry": "07/27",
+          "cvv": "XXX",
+          "billing_address": "4874902f6c72c94e190ad2d573618ce73fb493445a38c7c6874c71fec30072c1"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-14T19:15:44Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur smartphone 2025 photo",
+        "response": "Top 3 : Pixel 9 Pro, iPhone 16, Galaxy S25."
+      },
+      {
+        "timestamp": "2025-04-14T19:18:22Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Écouteurs sans fil premium",
+        "partner_site": "https://www.amazon.de",
+        "shipping_address": "8 Avenue Jean Jaurès, 93000 Bobigny",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "profile": {
+      "name": "f9caa3be9753a210e8197700538909cfdd61d7fb1f68712c645d93d4830795b1",
+      "email": "a472776fb82b2da23041b3bd6a6fccae97444145f1b4b8758be63a7bb8302828",
+      "phone": "d3a3d84d61cdb1edea4ab40800eac74cbf79cf1a94e0bb4236f561d58602c06f",
+      "address": "d0325025defeec9b3db7bf33c318d40e95556fc128c909d0c9558b8d90b36baa, 75019, [PAYS]",
+      "birthdate": "1983-01-30",
+      "national_id": "70358ef5f3de810d",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "XXXX-XXXX-XXXX-5678",
+          "expiry": "03/28",
+          "cvv": "XXX",
+          "billing_address": "0a5a992732294c4883fdb4f05236f6389954b9e5984309f03aba060e6d9f12dd"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": false,
+      "voice_data_processing": true,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-15T07:50:12Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Quel temps fait-il aujourd'hui à Paris ?",
+        "audio_recording_id": "e752d799c9beed64416b595fb937c5f53d1840be6a185bed825b904a3e497520",
+        "biometric_confirmed": false
+      }
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "profile": {
+      "name": "e57baddd0144c86637df4456855ab1e0c5a8ad6735e44f74707bd2e7da49dd8b",
+      "email": "f81e9ea09b6748a04b02860ebc2d73ee677541fda1b9bf89d5b17cf451334e91",
+      "phone": "da9d080802a2809de3ac7d2a608bd5c948b872efe50040f5a8488be488d356ad",
+      "address": "b6059dc32a78c296c45297f40497f51960a9454588e982559342aa1d1f457168, 75004, [PAYS]",
+      "birthdate": "1974-06-18",
+      "national_id": "ada20d29bceed9a6",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "XXXX-XXXX-XXXX-2222",
+          "expiry": "09/26",
+          "cvv": "XXX",
+          "billing_address": "1fe87dfb6ef6acd496107277ef1a11d1cd2398f599a07bc0957946473644ef31"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-16T11:20:35Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleurs restaurants parisiens 2025",
+        "response": "Le Cinq, Arpège, Guy Savoy."
+      },
+      {
+        "timestamp": "2025-04-16T11:25:10Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Billet pour spectacle comedy club",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "20 Rue de Rivoli, 75004 Paris",
+        "payment_method_last_4": "2222"
+      }
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "profile": {
+      "name": "8544ea25d44fd766b2c0c4300a76d6d3d33aee5bf98b996663179ecbf8a39bbd",
+      "email": "caadb49e1e0f32125e638b4c45d2cb6551f44dd1d5916fa17214f2005f23d04e",
+      "phone": "1caf8326eab1ce418ad32657c55d4090a6def2763dbd9a720f64eec521aa755e",
+      "address": "0b9f0ac519e48e2bc05d543c5a24ec78be47987e8e902449c1e0b81ec735f10f, 75010, [PAYS]",
+      "birthdate": "1991-04-14",
+      "national_id": "1f5646d2a6ff4f41",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "XXXX-XXXX-XXXX-1111",
+          "expiry": "01/27",
+          "cvv": "XXX",
+          "billing_address": "d91f4d71a293ab7a461d37145f530ce767d0c0c7851b95efcfe37d2674422ab6"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": true
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-17T20:05:41Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Ajoute un billet d'avion Paris-Nice au panier",
+        "audio_recording_id": "fdcd6abd770ce009aa70419870ebf016bb94222a9b788c7c09c75e3d17958d1a",
+        "biometric_confirmed": true
+      }
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "profile": {
+      "name": "dee0cd150d13b727275b28f719a4ac92d4603a179fe1e7968ef58dccc77e3f18",
+      "email": "1b5f1f2efa3eec4174daa5532dcb0855a5ec6109a113efcc5528407ed7012b17",
+      "phone": "f5ceeb2ebacd1bd357b60d30a05603fab329034228b043d06b3c70a524407984",
+      "address": "7f283e7f7fa14c0d48a91f1bb6758266813a134e0ad9329b984d1ac25e0ce804, 75013, [PAYS]",
+      "birthdate": "1987-08-22",
+      "national_id": "f407ee2100147426",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "American Express",
+          "number": "XXXX-XXXX-XXXX-0123",
+          "expiry": "04/28",
+          "cvv": "XXX",
+          "billing_address": "693ccbf775680e1ccf8afbc30562c387ef75b5789eb5c0c18e38f0dde2705547"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-18T13:10:55Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur vélo électrique 2025",
+        "response": "VéloBike Pro, UrbanRide E+, etc."
+      },
+      {
+        "timestamp": "2025-04-18T13:14:20Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Casque vélo avec lumière intégrée",
+        "partner_site": "https://www.decathlon.fr",
+        "shipping_address": "7 Rue de la Santé, 75013 Paris",
+        "payment_method_last_4": "9012"
+      }
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "profile": {
+      "name": "cfa996b7a87774499e42d051539de70f4fd7655ff3e079079744e3cf278444f7",
+      "email": "d0d92054b29c0d213323e88e62e49be4ce04d66ea43b4418af758b8aec21ccb4",
+      "phone": "973a1694129267f9289f6808cd5296b9adbe6caf2c79079f23b518138a7bec9b",
+      "address": "d50f6d34339087fe702da5fbf09fb3493f08119b3c201c663f9f7c5fa200b030, 75018, [PAYS]",
+      "birthdate": "1993-10-05",
+      "national_id": "8e0622bae29a4f4a",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "XXXX-XXXX-XXXX-1234",
+          "expiry": "10/26",
+          "cvv": "XXX",
+          "billing_address": "6ce8ec69b5b81ea22af0b5d11fe24d7106e7c068538d1bc77bdea074e477ed76"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-19T09:30:18Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleurs livres de développement personnel 2025",
+        "response": "Réinvente-toi, La semaine de 4h, etc."
+      },
+      {
+        "timestamp": "2025-04-19T09:33:44Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Livre 'Réinvente-toi'",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "4 Rue des Martyrs, 75018 Paris",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  }
+]

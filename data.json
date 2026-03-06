@@ -1,0 +1,455 @@
+[
+  {
+    "user_id": "user_001",
+    "profile": {
+      "name": "Jean Dupont",
+      "email": "jean.dupont@email.com",
+      "phone": "+33 6 12 34 56 78",
+      "address": "15 Rue de la République, 75001 Paris, France",
+      "birthdate": "1985-07-23",
+      "national_id": "1850775012345",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "4532-1234-5678-9012",
+          "expiry": "12/29",
+          "cvv": "123",
+          "billing_address": "15 Rue de la République, 75001 Paris"
+        },
+        {
+          "type": "paypal",
+          "email": "jean.dupont@email.com"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-10T08:15:30Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur casque sans fil pour la course",
+        "response": "Top 5 casques sportifs 2025 : SoundFit Pro, AirRun X1, etc."
+      },
+      {
+        "timestamp": "2025-04-10T08:16:45Z",
+        "service": "Rufus",
+        "action": "recommendation_click",
+        "recommended_product": "SoundFit Pro",
+        "product_link": "https://www.amazon.fr/casque-soundfit-pro"
+      },
+      {
+        "timestamp": "2025-04-10T12:30:10Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Livre 'La vie secrète des arbres'",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "15 Rue de la République, 75001 Paris",
+        "payment_method_last_4": "9012"
+      },
+      {
+        "timestamp": "2025-04-10T18:45:22Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Ajoute du lait et des œufs à ma liste de courses",
+        "audio_recording_id": "audio_001_20250410_184522",
+        "list_updated": "shopping_list_001"
+      },
+      {
+        "timestamp": "2025-04-11T07:20:15Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Commande un taxi pour 8h",
+        "audio_recording_id": "audio_001_20250411_072015",
+        "biometric_confirmed": false
+      }
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "profile": {
+      "name": "Marie Martin",
+      "email": "marie.martin@fournisseur.fr",
+      "phone": "+33 6 87 65 43 21",
+      "address": "28 Avenue des Tilleuls, 69003 Lyon, France",
+      "birthdate": "1992-11-14",
+      "national_id": "2921176123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "5184-3456-7890-1234",
+          "expiry": "08/27",
+          "cvv": "456",
+          "billing_address": "28 Avenue des Tilleuls, 69003 Lyon"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-09T14:22:10Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "ordinateur portable 15 pouces bon rapport qualité-prix",
+        "response": "Liste de 10 modèles disponibles sur Amazon."
+      },
+      {
+        "timestamp": "2025-04-09T14:25:01Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Station d'accueil USB-C",
+        "partner_site": "https://www.darty.com",
+        "shipping_address": "28 Avenue des Tilleuls, 69003 Lyon",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "profile": {
+      "name": "Pierre Durand",
+      "email": "pierre.durand@hotmail.fr",
+      "phone": "+33 6 23 45 67 89",
+      "address": "5 Boulevard Voltaire, 75011 Paris, France",
+      "birthdate": "1978-03-12",
+      "national_id": "1780375123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "American Express",
+          "number": "3714-496353-98431",
+          "expiry": "05/28",
+          "cvv": "987",
+          "billing_address": "5 Boulevard Voltaire, 75011 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-12T10:05:20Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleures baskets de running 2025",
+        "response": "Nike AirZoom, Adidas Ultraboost 2025, etc."
+      },
+      {
+        "timestamp": "2025-04-12T10:08:11Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Casque de vélo intelligent",
+        "partner_site": "https://www.decathlon.fr",
+        "shipping_address": "5 Boulevard Voltaire, 75011 Paris",
+        "payment_method_last_4": "9843"
+      }
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "profile": {
+      "name": "Sophie Leroy",
+      "email": "sophie.leroy@gmail.com",
+      "phone": "+33 6 34 56 78 90",
+      "address": "12 Rue de la Paix, 75002 Paris, France",
+      "birthdate": "1989-09-21",
+      "national_id": "2890976123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "4485-2345-6789-0123",
+          "expiry": "11/26",
+          "cvv": "234",
+          "billing_address": "12 Rue de la Paix, 75002 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": true
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-13T16:40:33Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Rappelle-moi d'appeler le médecin demain à 9h",
+        "audio_recording_id": "audio_004_20250413_164033",
+        "biometric_confirmed": true
+      }
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "profile": {
+      "name": "Lucas Moreau",
+      "email": "lucas.moreau@outlook.fr",
+      "phone": "+33 6 45 67 89 01",
+      "address": "8 Avenue Jean Jaurès, 93000 Bobigny, France",
+      "birthdate": "1995-12-05",
+      "national_id": "1951275123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "5412-3456-7890-1234",
+          "expiry": "07/27",
+          "cvv": "567",
+          "billing_address": "8 Avenue Jean Jaurès, 93000 Bobigny"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-14T19:15:44Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur smartphone 2025 photo",
+        "response": "Top 3 : Pixel 9 Pro, iPhone 16, Galaxy S25."
+      },
+      {
+        "timestamp": "2025-04-14T19:18:22Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Écouteurs sans fil premium",
+        "partner_site": "https://www.amazon.de",
+        "shipping_address": "8 Avenue Jean Jaurès, 93000 Bobigny",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "profile": {
+      "name": "Camille Dubois",
+      "email": "camille.dubois@yahoo.fr",
+      "phone": "+33 6 56 78 90 12",
+      "address": "3 Rue des Lilas, 75019 Paris, France",
+      "birthdate": "1983-01-30",
+      "national_id": "2830175123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "4556-7890-1234-5678",
+          "expiry": "03/28",
+          "cvv": "678",
+          "billing_address": "3 Rue des Lilas, 75019 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": false,
+      "voice_data_processing": true,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-15T07:50:12Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Quel temps fait-il aujourd'hui à Paris ?",
+        "audio_recording_id": "audio_006_20250415_075012",
+        "biometric_confirmed": false
+      }
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "profile": {
+      "name": "Julien Petit",
+      "email": "julien.petit@laposte.net",
+      "phone": "+33 6 67 89 01 23",
+      "address": "20 Rue de Rivoli, 75004 Paris, France",
+      "birthdate": "1974-06-18",
+      "national_id": "1740675123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "5555-4444-3333-2222",
+          "expiry": "09/26",
+          "cvv": "789",
+          "billing_address": "20 Rue de Rivoli, 75004 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-16T11:20:35Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleurs restaurants parisiens 2025",
+        "response": "Le Cinq, Arpège, Guy Savoy."
+      },
+      {
+        "timestamp": "2025-04-16T11:25:10Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Billet pour spectacle comedy club",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "20 Rue de Rivoli, 75004 Paris",
+        "payment_method_last_4": "2222"
+      }
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "profile": {
+      "name": "Émilie Garnier",
+      "email": "emilie.garnier@free.fr",
+      "phone": "+33 6 78 90 12 34",
+      "address": "10 Rue du Faubourg Saint-Denis, 75010 Paris, France",
+      "birthdate": "1991-04-14",
+      "national_id": "2910475123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Visa",
+          "number": "4111-1111-1111-1111",
+          "expiry": "01/27",
+          "cvv": "890",
+          "billing_address": "10 Rue du Faubourg Saint-Denis, 75010 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": true,
+      "biometric_data": true
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-17T20:05:41Z",
+        "service": "Alexa+",
+        "action": "voice_command",
+        "transcribed_command": "Ajoute un billet d'avion Paris-Nice au panier",
+        "audio_recording_id": "audio_008_20250417_200541",
+        "biometric_confirmed": true
+      }
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "profile": {
+      "name": "Antoine Roux",
+      "email": "antoine.roux@numericable.fr",
+      "phone": "+33 6 89 01 23 45",
+      "address": "7 Rue de la Santé, 75013 Paris, France",
+      "birthdate": "1987-08-22",
+      "national_id": "1870875123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "American Express",
+          "number": "3412-345678-90123",
+          "expiry": "04/28",
+          "cvv": "012",
+          "billing_address": "7 Rue de la Santé, 75013 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": true,
+      "personalized_recommendations": false,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-18T13:10:55Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleur vélo électrique 2025",
+        "response": "VéloBike Pro, UrbanRide E+, etc."
+      },
+      {
+        "timestamp": "2025-04-18T13:14:20Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Casque vélo avec lumière intégrée",
+        "partner_site": "https://www.decathlon.fr",
+        "shipping_address": "7 Rue de la Santé, 75013 Paris",
+        "payment_method_last_4": "9012"
+      }
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "profile": {
+      "name": "Chloé Bernard",
+      "email": "chloe.bernard@wanadoo.fr",
+      "phone": "+33 6 90 12 34 56",
+      "address": "4 Rue des Martyrs, 75018 Paris, France",
+      "birthdate": "1993-10-05",
+      "national_id": "2931075123456",
+      "payment_methods": [
+        {
+          "type": "credit_card",
+          "brand": "Mastercard",
+          "number": "5212-3456-7890-1234",
+          "expiry": "10/26",
+          "cvv": "123",
+          "billing_address": "4 Rue des Martyrs, 75018 Paris"
+        }
+      ]
+    },
+    "consent": {
+      "data_sharing": false,
+      "personalized_recommendations": true,
+      "voice_data_processing": false,
+      "biometric_data": false
+    },
+    "interactions": [
+      {
+        "timestamp": "2025-04-19T09:30:18Z",
+        "service": "Rufus",
+        "action": "search",
+        "query": "meilleurs livres de développement personnel 2025",
+        "response": "Réinvente-toi, La semaine de 4h, etc."
+      },
+      {
+        "timestamp": "2025-04-19T09:33:44Z",
+        "service": "Buy_for_Me",
+        "action": "purchase_request",
+        "product_name": "Livre 'Réinvente-toi'",
+        "partner_site": "https://www.fnac.com",
+        "shipping_address": "4 Rue des Martyrs, 75018 Paris",
+        "payment_method_last_4": "1234"
+      }
+    ]
+  }
+]
